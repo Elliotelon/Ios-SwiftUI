@@ -12,7 +12,8 @@ struct ContentView: View {
 //        HstackBasic()
 //        SheetBasic()
 //        PickerBasic()
-        DividerBasic()
+//        DividerBasic()
+        TextFieldBasic()
     }
 }
 
