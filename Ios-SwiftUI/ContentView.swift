@@ -13,7 +13,8 @@ struct ContentView: View {
 //        SheetBasic()
 //        PickerBasic()
 //        DividerBasic()
-        TextFieldBasic()
+//        TextFieldBasic()
+        SecureFieldBasic()
     }
 }
 
