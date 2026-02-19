@@ -16,10 +16,11 @@ struct ContentView: View {
 //        TextFieldBasic()
 //        SecureFieldBasic()
 //        ButtonBasic()
-        CardViewExample()
-        NotificationCardView()
-        StatsCardView()
-        ProfileCardView()
+//        CardViewExample()
+//        NotificationCardView()
+//        StatsCardView()
+//        ProfileCardView()
+        AlertBasic()
     }
 }
 
