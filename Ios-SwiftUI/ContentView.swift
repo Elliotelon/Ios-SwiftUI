@@ -20,7 +20,8 @@ struct ContentView: View {
 //        NotificationCardView()
 //        StatsCardView()
 //        ProfileCardView()
-        AlertBasic()
+//        AlertBasic()
+        StepperBasic()
     }
 }
 
