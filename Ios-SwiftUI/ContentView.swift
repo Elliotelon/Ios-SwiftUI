@@ -22,7 +22,8 @@ struct ContentView: View {
 //        ProfileCardView()
 //        AlertBasic()
 //        StepperBasic()
-        SliderBasic()
+//        SliderBasic()
+        DatePickerBasic()
     }
 }
 
