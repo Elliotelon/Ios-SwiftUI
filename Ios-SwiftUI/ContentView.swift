@@ -23,7 +23,8 @@ struct ContentView: View {
 //        AlertBasic()
 //        StepperBasic()
 //        SliderBasic()
-        DatePickerBasic()
+//        DatePickerBasic()
+        LazyVStackBasic()
     }
 }
 
