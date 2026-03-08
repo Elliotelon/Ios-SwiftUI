@@ -25,7 +25,8 @@ struct ContentView: View {
 //        SliderBasic()
 //        DatePickerBasic()
 //        LazyVStackBasic()
-        LazyHStackBasic()
+//        LazyHStackBasic()
+        NavigationStackBasic()
     }
 }
 
